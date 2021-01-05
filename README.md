@@ -1,6 +1,8 @@
 # ResponsivePortfolio
 Unit 2 Homework Assignment
 
+https://sa605935.github.io/ResponsivePortfolio/
+
 In this assignment, we were tasked to begin creating our personal websites. We were given reference screenshots as guides and were encouraged to achieve the following...
 -Include a navbar
 -Include Responsive Images
