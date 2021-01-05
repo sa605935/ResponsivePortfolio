@@ -24,11 +24,6 @@ body {
   width: 50%;
 }
 
-/*sizes holiday pitcure*/
-#holiday {
-    width: 250px;
-}
-
 /*Header background*/
 .header-background {
     background-color: #ce897b;
@@ -46,6 +41,12 @@ h1 {
     width: 50%;
 
 }
+.bg-secondary {
+    background-color: pink;
+}
+.col_card {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
 
 /*sets color for links on portfolio page*/
 .links-portfolio, a:hover {
@@ -53,15 +54,21 @@ h1 {
     text-decoration: none;
 }
 
-/*changes padding on form on contact page*/
+/*Padding for contact page form & font*/
 .contact-form {
-    padding-left: 10px;
+    padding-left: 175px;
     padding-right: 10px;
+    font-family: 'Franklin Gothic Small', 'Arial Narrow', Arial, sans-serif;
+    
 }
 
-/*floats nav to right*/
-#navflex {
+/*floats NavBar list to the right of the page*/
+.navbar-brand {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#navbarNavAltMarkup {
     justify-content: flex-end;
+    font-family: 'Franklin Gothic Small', 'Arial Narrow', Arial, sans-serif;
 }
 
 /*Paragraph font*/
