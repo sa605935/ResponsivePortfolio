@@ -1,0 +1,70 @@
+/*way background image for body*/
+body {
+    background: url(images/Pink_background.jpg);
+    background-size: 100%;
+    width: auto;
+}
+
+/*sets border around main page content*/
+.border {
+    background-color: #ead3d7;
+    margin-top: 100px;
+    margin-bottom: 90px;
+    padding-bottom: 20px;
+}
+
+/*size & center headshot*/
+#headshot {
+    width: 600px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/*sizes holiday pitcure*/
+#holiday {
+    width: 250px;
+}
+
+/*Header background*/
+.header-background {
+    background-color: #ce897b;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+/*Header font and center*/
+h1 {
+    color: whitesmoke;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+/*sets color for links on portfolio page*/
+.links-portfolio, a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+/*changes padding on form on contact page*/
+.contact-form {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/*floats nav to right*/
+#navflex {
+    justify-content: flex-end;
+}
+
+/*Paragraph font*/
+.paragraph {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
